@@ -4,7 +4,7 @@
 | Edlawit Manaya    | UGR/7623/15  | 4   |
 | Elshaday Girma    | UGR/1536/15   | 2   |
 | Kalkidan Adeba    | UGR/6457/15   | 4   |
-| Meron Bihon    | UGR/8000/15   | 2   |
+| Meron Bihon    | UGR/8000/15   | 1   |
 | Yodit Debebe    | UGR/8065/15   | 4  |
 
 # Wilowachn-App
