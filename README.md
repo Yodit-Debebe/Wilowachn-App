@@ -1,5 +1,5 @@
 
-| group Members | ID | Section |
+| Group Members | ID | Section |
 |----------|----------|----------|
 | Edlawit Manaya    | UGR/7623/15  | 4   |
 | Elshaday Girma    | UGR/1536/15   | 2   |
